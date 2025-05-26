@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827424811435",
+    "project_id": "soll-wallet",
+    "storage_bucket": "soll-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827424811435:android:51f947da624629408bcaee",
+        "android_client_info": {
+          "package_name": "com.example.solana_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsVWTzlIg5JAk7qPkIxCRWgFapZdCi5Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
