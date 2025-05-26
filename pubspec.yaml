@@ -66,13 +66,11 @@ dependencies:
   share_plus: 7.2.2
   device_info_plus: ^9.1.2
   readmore: ^3.0.0
-  permission_handler: ^9.0.2
+  permission_handler: ^11.3.0
   fl_chart: ^0.68.0
   dot_curved_bottom_nav: ^0.0.2
   skeletonizer: ^1.4.2
-  flutter_barcode_scanner:
-    git:
-      url: https://github.com/itsAyyazdev/flutter_barcode_scanner.git
+  mobile_scanner: ^4.0.1
   firebase_core:
   cloud_firestore:
   flutter_inappwebview:
