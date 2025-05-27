@@ -85,8 +85,8 @@ dev_dependencies:
 
 dependency_overrides:
   pinenacl: ^0.6.0
-  webview_flutter: ^4.7.0
-  webview_flutter_android: ^4.7.0
+  webview_flutter: 4.0.7
+  webview_flutter_android: 3.10.0
   image_gallery_saver:
     git:
       url: https://github.com/knottx/image_gallery_saver.git
